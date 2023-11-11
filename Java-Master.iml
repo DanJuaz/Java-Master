@@ -9,11 +9,22 @@
       <sourceFolder url="file://$MODULE_DIR$/Java-Mater/Clases-Date-Calendar" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/Java-Mater/Clases-Wrapper" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/Java-Mater/Class-Math" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/Java-Mater/Cmd" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java-Mater/Cmd" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/Java-Mater/FlujosControl" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/Java-Mater/String" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/Java-Mater/Variables" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/Java-Mater/propiedadesSystem" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Java-Mater/2Array" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Java-Mater/Clases&amp;&amp;Objetos" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Java-Mater/com.azurduy.app" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java-Mater/appfacturas" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Java-Mater/poo_herencia" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Java-Mater/poo_sobrecarga" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Java-Mater/org" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Java-Mater/poo_abstract" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Java-Mater/com.dazn.mamiferos" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Java-Mater/poo_animals_management" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Java-Mater/poo_interfaces_generics" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
