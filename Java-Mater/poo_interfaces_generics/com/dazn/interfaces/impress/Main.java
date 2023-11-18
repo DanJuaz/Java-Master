@@ -1,6 +1,5 @@
 package com.dazn.interfaces.impress;
 
-import com.dazn.impress.model.*;
 import com.dazn.interfaces.impress.model.*;
 
 import static com.dazn.interfaces.impress.model.IPrintable.print;

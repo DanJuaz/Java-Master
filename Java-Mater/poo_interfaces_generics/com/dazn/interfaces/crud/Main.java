@@ -1,7 +1,6 @@
 package com.dazn.interfaces.crud;
 
 import com.dazn.interfaces.crud.model.Cliente;
-import com.dazn.crud.repository.*;
 import com.dazn.interfaces.crud.repository.ClienteList;
 import com.dazn.interfaces.crud.repository.Direccion;
 import com.dazn.interfaces.crud.repository.IInterfacesMultiples;
